@@ -1,0 +1,8 @@
+{
+  "name": "MEG Kuruyemiş AI",
+  "description": "Premium kuruyemiş deneyimi sunan, yapay zeka destekli kişiselleştirilmiş atıştırmalık ve beslenme danışmanlığı uygulaması.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
